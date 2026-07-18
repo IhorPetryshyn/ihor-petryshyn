@@ -10,4 +10,4 @@ Data Analyst with a background in financial client service, passionate about unc
 
 ## 📬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ihor-petryshyn-mateac/)
-- [![Електронна пошта](https://shields.io)](mailto:ihor.petryshyn.da@gmail.com)
+- [Електронна пошта](https://shields.io)](mailto:ihor.petryshyn.da@gmail.com)
