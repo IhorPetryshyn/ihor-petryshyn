@@ -8,11 +8,10 @@
 
 | Project Name | Primary Tools | Direct Links |
 | :--- | :--- | :--- |
-| **SQL Analysis Project** | `BigQuery SQL` | [📁 Repository](https://github.com/IhorPetryshyn/SQL-Analysis-Project) |
-| **Tableau Email Metrics Dashboard** | `Tableau`, `SQL` | [📁 Repository](https://github.com/IhorPetryshyn/Tableau-Project) \| [📊 Live Dashboard](https://public.tableau.com/) |
+| **User Activity & Email Engagement Optimization** | `BigQuery SQL` | [📁 Repository](https://github.com/IhorPetryshyn/SQL-Analysis-Project) |
+| **Global Email Campaign Performance Tracking** | `Tableau`, `SQL` | [📁 Repository](https://github.com/IhorPetryshyn/Tableau-Project) \| [📊 Live Dashboard](https://public.tableau.com/) |
 | **E-Commerce Customer & Sales Analytics** | `Python`, `SQL`, `Tableau` | [📁 Repository](https://github.com/IhorPetryshyn/E-Commerce-Customer-Sales-Analytics-Project) |
-| **A/B Testing Analytics** | `Python (Stats)`, `BigQuery`, `Tableau` | [📁 Repository](https://github.com/IhorPetryshyn/A-B-Testing-Analytics-Checkout-Funnel-Optimization-Z-Test-Evaluation) \| [📊 Tableau Dashboard](https://public.tableau.com/app/profile/ihor.petrsyhyn/viz/Portfolio2_17821301696490/Dashboard1?publish=yes) |
-| **ABP Data Analysis & Visualization** | `Python`, `Tableau` | [📁 Repository](https://github.com/IhorPetryshyn/ABP-test) |
+| **Automated A/B Testing: Conversion Rate Optimization Across Traffic Channels** | `Python (Stats)`, `BigQuery`, `Tableau` | [📁 Repository](https://github.com/IhorPetryshyn/A-B-Testing-Analytics-Checkout-Funnel-Optimization-Z-Test-Evaluation) \| [📊 Tableau Dashboard](https://public.tableau.com/app/profile/ihor.petrsyhyn/viz/Portfolio2_17821301696490/Dashboard1?publish=yes) |
 
 ---
 
